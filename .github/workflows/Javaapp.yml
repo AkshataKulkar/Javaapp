@@ -21,6 +21,5 @@ jobs:
           distribution: 'temurin'
 
       - name: Build with Maven
+        working-directory: ./Javaapp
         run: mvn clean install
-
-
