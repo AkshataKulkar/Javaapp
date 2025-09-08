@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class JavaWarApplication {
     public static void main(String[] args) {
         System.out.println("Hello World from AWS EC2!");
         // Keep app running to see output in logs (optional)
